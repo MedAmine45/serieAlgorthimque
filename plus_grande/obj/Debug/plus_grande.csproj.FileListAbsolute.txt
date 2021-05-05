@@ -1,0 +1,6 @@
+D:\serie algorthmique\serie\plus_grande\bin\Debug\plus_grande.exe.config
+D:\serie algorthmique\serie\plus_grande\bin\Debug\plus_grande.exe
+D:\serie algorthmique\serie\plus_grande\bin\Debug\plus_grande.pdb
+D:\serie algorthmique\serie\plus_grande\obj\Debug\plus_grande.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\plus_grande\obj\Debug\plus_grande.exe
+D:\serie algorthmique\serie\plus_grande\obj\Debug\plus_grande.pdb

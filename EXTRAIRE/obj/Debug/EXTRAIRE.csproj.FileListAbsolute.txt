@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\EXTRAIRE\bin\Debug\EXTRAIRE.exe.config
+D:\serie algorthmique\serie\EXTRAIRE\bin\Debug\EXTRAIRE.exe
+D:\serie algorthmique\serie\EXTRAIRE\bin\Debug\EXTRAIRE.pdb
+D:\serie algorthmique\serie\EXTRAIRE\obj\Debug\EXTRAIRE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\EXTRAIRE\obj\Debug\EXTRAIRE.exe
+D:\serie algorthmique\serie\EXTRAIRE\obj\Debug\EXTRAIRE.pdb
+D:\serie algorthmique\serie\EXTRAIRE\obj\Debug\EXTRAIRE.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\serie algorthmique\serie\CALCULATRICE\bin\Debug\CALCULATRICE.exe.config
+D:\serie algorthmique\serie\CALCULATRICE\bin\Debug\CALCULATRICE.exe
+D:\serie algorthmique\serie\CALCULATRICE\bin\Debug\CALCULATRICE.pdb
+D:\serie algorthmique\serie\CALCULATRICE\obj\Debug\CALCULATRICE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\CALCULATRICE\obj\Debug\CALCULATRICE.exe
+D:\serie algorthmique\serie\CALCULATRICE\obj\Debug\CALCULATRICE.pdb

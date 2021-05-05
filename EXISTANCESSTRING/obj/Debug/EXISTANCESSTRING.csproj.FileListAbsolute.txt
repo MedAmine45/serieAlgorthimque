@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\EXISTANCESSTRING\bin\Debug\EXISTANCESSTRING.exe.config
+D:\serie algorthmique\serie\EXISTANCESSTRING\bin\Debug\EXISTANCESSTRING.exe
+D:\serie algorthmique\serie\EXISTANCESSTRING\bin\Debug\EXISTANCESSTRING.pdb
+D:\serie algorthmique\serie\EXISTANCESSTRING\obj\Debug\EXISTANCESSTRING.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\EXISTANCESSTRING\obj\Debug\EXISTANCESSTRING.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\EXISTANCESSTRING\obj\Debug\EXISTANCESSTRING.exe
+D:\serie algorthmique\serie\EXISTANCESSTRING\obj\Debug\EXISTANCESSTRING.pdb

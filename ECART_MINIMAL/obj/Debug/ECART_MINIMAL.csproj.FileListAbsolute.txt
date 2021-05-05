@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\ECART_MINIMAL\bin\Debug\ECART_MINIMAL.exe.config
+D:\serie algorthmique\serie\ECART_MINIMAL\bin\Debug\ECART_MINIMAL.exe
+D:\serie algorthmique\serie\ECART_MINIMAL\bin\Debug\ECART_MINIMAL.pdb
+D:\serie algorthmique\serie\ECART_MINIMAL\obj\Debug\ECART_MINIMAL.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\ECART_MINIMAL\obj\Debug\ECART_MINIMAL.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\ECART_MINIMAL\obj\Debug\ECART_MINIMAL.exe
+D:\serie algorthmique\serie\ECART_MINIMAL\obj\Debug\ECART_MINIMAL.pdb

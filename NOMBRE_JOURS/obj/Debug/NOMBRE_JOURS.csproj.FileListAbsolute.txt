@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\NOMBRE_JOURS\bin\Debug\NOMBRE_JOURS.exe.config
+D:\serie algorthmique\serie\NOMBRE_JOURS\bin\Debug\NOMBRE_JOURS.exe
+D:\serie algorthmique\serie\NOMBRE_JOURS\bin\Debug\NOMBRE_JOURS.pdb
+D:\serie algorthmique\serie\NOMBRE_JOURS\obj\Debug\NOMBRE_JOURS.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\NOMBRE_JOURS\obj\Debug\NOMBRE_JOURS.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\NOMBRE_JOURS\obj\Debug\NOMBRE_JOURS.exe
+D:\serie algorthmique\serie\NOMBRE_JOURS\obj\Debug\NOMBRE_JOURS.pdb

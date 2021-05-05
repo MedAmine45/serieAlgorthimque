@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\inconnu\bin\Debug\inconnu.exe.config
+D:\serie algorthmique\serie\inconnu\bin\Debug\inconnu.exe
+D:\serie algorthmique\serie\inconnu\bin\Debug\inconnu.pdb
+D:\serie algorthmique\serie\inconnu\obj\Debug\inconnu.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\inconnu\obj\Debug\inconnu.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\inconnu\obj\Debug\inconnu.exe
+D:\serie algorthmique\serie\inconnu\obj\Debug\inconnu.pdb

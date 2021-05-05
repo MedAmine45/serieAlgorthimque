@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\DIVISEURS_MULTIPLES\bin\Debug\DIVISEURS_MULTIPLES.exe.config
+D:\serie algorthmique\serie\DIVISEURS_MULTIPLES\bin\Debug\DIVISEURS_MULTIPLES.exe
+D:\serie algorthmique\serie\DIVISEURS_MULTIPLES\bin\Debug\DIVISEURS_MULTIPLES.pdb
+D:\serie algorthmique\serie\DIVISEURS_MULTIPLES\obj\Debug\DIVISEURS_MULTIPLES.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\DIVISEURS_MULTIPLES\obj\Debug\DIVISEURS_MULTIPLES.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\DIVISEURS_MULTIPLES\obj\Debug\DIVISEURS_MULTIPLES.exe
+D:\serie algorthmique\serie\DIVISEURS_MULTIPLES\obj\Debug\DIVISEURS_MULTIPLES.pdb

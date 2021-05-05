@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\MOYENNEPOSITIVE\bin\Debug\MOYENNEPOSITIVE.exe.config
+D:\serie algorthmique\serie\MOYENNEPOSITIVE\bin\Debug\MOYENNEPOSITIVE.exe
+D:\serie algorthmique\serie\MOYENNEPOSITIVE\bin\Debug\MOYENNEPOSITIVE.pdb
+D:\serie algorthmique\serie\MOYENNEPOSITIVE\obj\Debug\MOYENNEPOSITIVE.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\MOYENNEPOSITIVE\obj\Debug\MOYENNEPOSITIVE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\MOYENNEPOSITIVE\obj\Debug\MOYENNEPOSITIVE.exe
+D:\serie algorthmique\serie\MOYENNEPOSITIVE\obj\Debug\MOYENNEPOSITIVE.pdb

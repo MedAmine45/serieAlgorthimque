@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\OLYMPIQUE\bin\Debug\OLYMPIQUE.exe.config
+D:\serie algorthmique\serie\OLYMPIQUE\bin\Debug\OLYMPIQUE.exe
+D:\serie algorthmique\serie\OLYMPIQUE\bin\Debug\OLYMPIQUE.pdb
+D:\serie algorthmique\serie\OLYMPIQUE\obj\Debug\OLYMPIQUE.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\OLYMPIQUE\obj\Debug\OLYMPIQUE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\OLYMPIQUE\obj\Debug\OLYMPIQUE.exe
+D:\serie algorthmique\serie\OLYMPIQUE\obj\Debug\OLYMPIQUE.pdb

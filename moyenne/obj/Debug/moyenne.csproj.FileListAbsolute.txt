@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\moyenne\bin\Debug\moyenne.exe.config
+D:\serie algorthmique\serie\moyenne\bin\Debug\moyenne.exe
+D:\serie algorthmique\serie\moyenne\bin\Debug\moyenne.pdb
+D:\serie algorthmique\serie\moyenne\obj\Debug\moyenne.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\moyenne\obj\Debug\moyenne.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\moyenne\obj\Debug\moyenne.exe
+D:\serie algorthmique\serie\moyenne\obj\Debug\moyenne.pdb

@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\PERMUTATION_CIRCULAIRE\bin\Debug\PERMUTATION_CIRCULAIRE.exe.config
+D:\serie algorthmique\serie\PERMUTATION_CIRCULAIRE\bin\Debug\PERMUTATION_CIRCULAIRE.exe
+D:\serie algorthmique\serie\PERMUTATION_CIRCULAIRE\bin\Debug\PERMUTATION_CIRCULAIRE.pdb
+D:\serie algorthmique\serie\PERMUTATION_CIRCULAIRE\obj\Debug\PERMUTATION_CIRCULAIRE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\PERMUTATION_CIRCULAIRE\obj\Debug\PERMUTATION_CIRCULAIRE.exe
+D:\serie algorthmique\serie\PERMUTATION_CIRCULAIRE\obj\Debug\PERMUTATION_CIRCULAIRE.pdb
+D:\serie algorthmique\serie\PERMUTATION_CIRCULAIRE\obj\Debug\PERMUTATION_CIRCULAIRE.csprojAssemblyReference.cache

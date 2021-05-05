@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\FACTEURS_PREMIERS\bin\Debug\FACTEURS_PREMIERS.exe.config
+D:\serie algorthmique\serie\FACTEURS_PREMIERS\bin\Debug\FACTEURS_PREMIERS.exe
+D:\serie algorthmique\serie\FACTEURS_PREMIERS\bin\Debug\FACTEURS_PREMIERS.pdb
+D:\serie algorthmique\serie\FACTEURS_PREMIERS\obj\Debug\FACTEURS_PREMIERS.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\FACTEURS_PREMIERS\obj\Debug\FACTEURS_PREMIERS.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\FACTEURS_PREMIERS\obj\Debug\FACTEURS_PREMIERS.exe
+D:\serie algorthmique\serie\FACTEURS_PREMIERS\obj\Debug\FACTEURS_PREMIERS.pdb

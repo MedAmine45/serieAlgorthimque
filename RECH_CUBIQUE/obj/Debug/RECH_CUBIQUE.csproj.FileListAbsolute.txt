@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\RECH_CUBIQUE\bin\Debug\RECH_CUBIQUE.exe.config
+D:\serie algorthmique\serie\RECH_CUBIQUE\bin\Debug\RECH_CUBIQUE.exe
+D:\serie algorthmique\serie\RECH_CUBIQUE\bin\Debug\RECH_CUBIQUE.pdb
+D:\serie algorthmique\serie\RECH_CUBIQUE\obj\Debug\RECH_CUBIQUE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\RECH_CUBIQUE\obj\Debug\RECH_CUBIQUE.exe
+D:\serie algorthmique\serie\RECH_CUBIQUE\obj\Debug\RECH_CUBIQUE.pdb
+D:\serie algorthmique\serie\RECH_CUBIQUE\obj\Debug\RECH_CUBIQUE.csprojAssemblyReference.cache

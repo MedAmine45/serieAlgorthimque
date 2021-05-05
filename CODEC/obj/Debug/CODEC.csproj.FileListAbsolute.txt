@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\CODEC\bin\Debug\CODEC.exe.config
+D:\serie algorthmique\serie\CODEC\bin\Debug\CODEC.exe
+D:\serie algorthmique\serie\CODEC\bin\Debug\CODEC.pdb
+D:\serie algorthmique\serie\CODEC\obj\Debug\CODEC.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\CODEC\obj\Debug\CODEC.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\CODEC\obj\Debug\CODEC.exe
+D:\serie algorthmique\serie\CODEC\obj\Debug\CODEC.pdb

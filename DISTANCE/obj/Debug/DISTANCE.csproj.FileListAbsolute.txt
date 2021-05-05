@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\DISTANCE\bin\Debug\DISTANCE.exe.config
+D:\serie algorthmique\serie\DISTANCE\bin\Debug\DISTANCE.exe
+D:\serie algorthmique\serie\DISTANCE\bin\Debug\DISTANCE.pdb
+D:\serie algorthmique\serie\DISTANCE\obj\Debug\DISTANCE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\DISTANCE\obj\Debug\DISTANCE.exe
+D:\serie algorthmique\serie\DISTANCE\obj\Debug\DISTANCE.pdb
+D:\serie algorthmique\serie\DISTANCE\obj\Debug\DISTANCE.csprojAssemblyReference.cache

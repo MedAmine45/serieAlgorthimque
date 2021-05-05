@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\CAPACITE\bin\Debug\CAPACITE.exe.config
+D:\serie algorthmique\serie\CAPACITE\bin\Debug\CAPACITE.exe
+D:\serie algorthmique\serie\CAPACITE\bin\Debug\CAPACITE.pdb
+D:\serie algorthmique\serie\CAPACITE\obj\Debug\CAPACITE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\CAPACITE\obj\Debug\CAPACITE.exe
+D:\serie algorthmique\serie\CAPACITE\obj\Debug\CAPACITE.pdb
+D:\serie algorthmique\serie\CAPACITE\obj\Debug\CAPACITE.csprojAssemblyReference.cache

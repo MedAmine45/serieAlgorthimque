@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\COMPOSE\bin\Debug\COMPOSE.exe.config
+D:\serie algorthmique\serie\COMPOSE\bin\Debug\COMPOSE.exe
+D:\serie algorthmique\serie\COMPOSE\bin\Debug\COMPOSE.pdb
+D:\serie algorthmique\serie\COMPOSE\obj\Debug\COMPOSE.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\COMPOSE\obj\Debug\COMPOSE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\COMPOSE\obj\Debug\COMPOSE.exe
+D:\serie algorthmique\serie\COMPOSE\obj\Debug\COMPOSE.pdb

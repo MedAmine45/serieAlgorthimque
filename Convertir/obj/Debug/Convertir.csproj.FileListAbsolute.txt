@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\Convertir\bin\Debug\Convertir.exe.config
+D:\serie algorthmique\serie\Convertir\bin\Debug\Convertir.exe
+D:\serie algorthmique\serie\Convertir\bin\Debug\Convertir.pdb
+D:\serie algorthmique\serie\Convertir\obj\Debug\Convertir.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\Convertir\obj\Debug\Convertir.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\Convertir\obj\Debug\Convertir.exe
+D:\serie algorthmique\serie\Convertir\obj\Debug\Convertir.pdb

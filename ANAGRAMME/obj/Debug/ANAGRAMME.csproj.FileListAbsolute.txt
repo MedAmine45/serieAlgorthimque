@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\ANAGRAMME\bin\Debug\ANAGRAMME.exe.config
+D:\serie algorthmique\serie\ANAGRAMME\bin\Debug\ANAGRAMME.exe
+D:\serie algorthmique\serie\ANAGRAMME\bin\Debug\ANAGRAMME.pdb
+D:\serie algorthmique\serie\ANAGRAMME\obj\Debug\ANAGRAMME.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\ANAGRAMME\obj\Debug\ANAGRAMME.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\ANAGRAMME\obj\Debug\ANAGRAMME.exe
+D:\serie algorthmique\serie\ANAGRAMME\obj\Debug\ANAGRAMME.pdb

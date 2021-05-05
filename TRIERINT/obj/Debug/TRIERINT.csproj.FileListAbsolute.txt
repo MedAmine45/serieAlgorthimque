@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\TRIERINT\bin\Debug\TRIERINT.exe.config
+D:\serie algorthmique\serie\TRIERINT\bin\Debug\TRIERINT.exe
+D:\serie algorthmique\serie\TRIERINT\bin\Debug\TRIERINT.pdb
+D:\serie algorthmique\serie\TRIERINT\obj\Debug\TRIERINT.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\TRIERINT\obj\Debug\TRIERINT.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\TRIERINT\obj\Debug\TRIERINT.exe
+D:\serie algorthmique\serie\TRIERINT\obj\Debug\TRIERINT.pdb

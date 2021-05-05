@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\TRIANGLE\bin\Debug\TRIANGLE.exe.config
+D:\serie algorthmique\serie\TRIANGLE\bin\Debug\TRIANGLE.exe
+D:\serie algorthmique\serie\TRIANGLE\bin\Debug\TRIANGLE.pdb
+D:\serie algorthmique\serie\TRIANGLE\obj\Debug\TRIANGLE.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\TRIANGLE\obj\Debug\TRIANGLE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\TRIANGLE\obj\Debug\TRIANGLE.exe
+D:\serie algorthmique\serie\TRIANGLE\obj\Debug\TRIANGLE.pdb

@@ -1,0 +1,6 @@
+D:\serie algorthmique\serie\POSITION2INT\bin\Debug\POSITION2INT.exe.config
+D:\serie algorthmique\serie\POSITION2INT\bin\Debug\POSITION2INT.exe
+D:\serie algorthmique\serie\POSITION2INT\bin\Debug\POSITION2INT.pdb
+D:\serie algorthmique\serie\POSITION2INT\obj\Debug\POSITION2INT.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\POSITION2INT\obj\Debug\POSITION2INT.exe
+D:\serie algorthmique\serie\POSITION2INT\obj\Debug\POSITION2INT.pdb

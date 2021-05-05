@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\ROTATION\bin\Debug\ROTATION.exe.config
+D:\serie algorthmique\serie\ROTATION\bin\Debug\ROTATION.exe
+D:\serie algorthmique\serie\ROTATION\bin\Debug\ROTATION.pdb
+D:\serie algorthmique\serie\ROTATION\obj\Debug\ROTATION.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\ROTATION\obj\Debug\ROTATION.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\ROTATION\obj\Debug\ROTATION.exe
+D:\serie algorthmique\serie\ROTATION\obj\Debug\ROTATION.pdb

@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\cmax_cmin\bin\Debug\cmax_cmin.exe.config
+D:\serie algorthmique\serie\cmax_cmin\bin\Debug\cmax_cmin.exe
+D:\serie algorthmique\serie\cmax_cmin\bin\Debug\cmax_cmin.pdb
+D:\serie algorthmique\serie\cmax_cmin\obj\Debug\cmax_cmin.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\cmax_cmin\obj\Debug\cmax_cmin.exe
+D:\serie algorthmique\serie\cmax_cmin\obj\Debug\cmax_cmin.pdb
+D:\serie algorthmique\serie\cmax_cmin\obj\Debug\cmax_cmin.csprojAssemblyReference.cache

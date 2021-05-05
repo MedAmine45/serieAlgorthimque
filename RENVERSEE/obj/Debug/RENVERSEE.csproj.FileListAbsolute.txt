@@ -1,0 +1,6 @@
+D:\serie algorthmique\serie\RENVERSEE\bin\Debug\RENVERSEE.exe.config
+D:\serie algorthmique\serie\RENVERSEE\bin\Debug\RENVERSEE.exe
+D:\serie algorthmique\serie\RENVERSEE\bin\Debug\RENVERSEE.pdb
+D:\serie algorthmique\serie\RENVERSEE\obj\Debug\RENVERSEE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\RENVERSEE\obj\Debug\RENVERSEE.exe
+D:\serie algorthmique\serie\RENVERSEE\obj\Debug\RENVERSEE.pdb

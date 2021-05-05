@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\SEQUENCE\bin\Debug\SEQUENCE.exe.config
+D:\serie algorthmique\serie\SEQUENCE\bin\Debug\SEQUENCE.exe
+D:\serie algorthmique\serie\SEQUENCE\bin\Debug\SEQUENCE.pdb
+D:\serie algorthmique\serie\SEQUENCE\obj\Debug\SEQUENCE.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\SEQUENCE\obj\Debug\SEQUENCE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\SEQUENCE\obj\Debug\SEQUENCE.exe
+D:\serie algorthmique\serie\SEQUENCE\obj\Debug\SEQUENCE.pdb

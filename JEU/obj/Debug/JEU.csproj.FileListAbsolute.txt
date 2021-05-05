@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\JEU\bin\Debug\JEU.exe.config
+D:\serie algorthmique\serie\JEU\bin\Debug\JEU.exe
+D:\serie algorthmique\serie\JEU\bin\Debug\JEU.pdb
+D:\serie algorthmique\serie\JEU\obj\Debug\JEU.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\JEU\obj\Debug\JEU.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\JEU\obj\Debug\JEU.exe
+D:\serie algorthmique\serie\JEU\obj\Debug\JEU.pdb

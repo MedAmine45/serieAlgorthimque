@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\ETAT_PERSONNE\bin\Debug\ETAT_PERSONNE.exe.config
+D:\serie algorthmique\serie\ETAT_PERSONNE\bin\Debug\ETAT_PERSONNE.exe
+D:\serie algorthmique\serie\ETAT_PERSONNE\bin\Debug\ETAT_PERSONNE.pdb
+D:\serie algorthmique\serie\ETAT_PERSONNE\obj\Debug\ETAT_PERSONNE.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\ETAT_PERSONNE\obj\Debug\ETAT_PERSONNE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\ETAT_PERSONNE\obj\Debug\ETAT_PERSONNE.exe
+D:\serie algorthmique\serie\ETAT_PERSONNE\obj\Debug\ETAT_PERSONNE.pdb

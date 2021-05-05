@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\AFFICHAGE\bin\Debug\AFFICHAGE.exe.config
+D:\serie algorthmique\serie\AFFICHAGE\bin\Debug\AFFICHAGE.exe
+D:\serie algorthmique\serie\AFFICHAGE\bin\Debug\AFFICHAGE.pdb
+D:\serie algorthmique\serie\AFFICHAGE\obj\Debug\AFFICHAGE.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\AFFICHAGE\obj\Debug\AFFICHAGE.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\AFFICHAGE\obj\Debug\AFFICHAGE.exe
+D:\serie algorthmique\serie\AFFICHAGE\obj\Debug\AFFICHAGE.pdb

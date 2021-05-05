@@ -1,0 +1,7 @@
+D:\serie algorthmique\serie\ELEMENTS_DIFFERENTS\bin\Debug\ELEMENTS_DIFFERENTS.exe.config
+D:\serie algorthmique\serie\ELEMENTS_DIFFERENTS\bin\Debug\ELEMENTS_DIFFERENTS.exe
+D:\serie algorthmique\serie\ELEMENTS_DIFFERENTS\bin\Debug\ELEMENTS_DIFFERENTS.pdb
+D:\serie algorthmique\serie\ELEMENTS_DIFFERENTS\obj\Debug\ELEMENTS_DIFFERENTS.csprojAssemblyReference.cache
+D:\serie algorthmique\serie\ELEMENTS_DIFFERENTS\obj\Debug\ELEMENTS_DIFFERENTS.csproj.CoreCompileInputs.cache
+D:\serie algorthmique\serie\ELEMENTS_DIFFERENTS\obj\Debug\ELEMENTS_DIFFERENTS.exe
+D:\serie algorthmique\serie\ELEMENTS_DIFFERENTS\obj\Debug\ELEMENTS_DIFFERENTS.pdb
